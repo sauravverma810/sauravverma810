@@ -2,11 +2,11 @@
 
 ### 👋 Hi, I'm Saurav Verma
 
-**Full Stack Developer | Frontend Developer | Backend Developer | B.Tech Student**
+**Full Stack Developer | Frontend Developer | Backend Developer | AI & RAG Enthusiast | B.Tech Student**
 
-I’m a passionate developer who loves turning ideas into modern, scalable, and user-friendly web applications. I enjoy solving problems, learning new technologies, and building projects that solve real-world problems.
+I’m a passionate developer who loves turning ideas into modern, scalable, and user-friendly applications. I enjoy solving problems, learning new technologies, and building projects that solve real-world problems.
 
-I work across both **frontend and backend development**, from creating responsive user interfaces to developing APIs, managing databases, and building complete full-stack applications.
+I work across **frontend, backend, and AI development**, from creating responsive user interfaces and REST APIs to managing databases, containerizing applications, deploying projects, and exploring AI-powered solutions.
 
 ### 🚀 What I Bring to the Table
 
@@ -16,16 +16,22 @@ HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Redux
 **⚙️ Backend Development**  
 Node.js, Express.js, REST APIs, MongoDB, Firebase, Supabase
 
-**💻 Programming & Problem Solving**  
-C, C++, JavaScript, TypeScript, Data Structures & Algorithms, LeetCode
+**🤖 AI, LLM & RAG Development**  
+Python, Artificial Intelligence, Generative AI, LLMs, RAG (Retrieval-Augmented Generation), AI Agents, Prompt Engineering, AI-powered Applications
 
-**🛠️ Development Tools**  
-Git, GitHub, VS Code, Postman, Firebase, Supabase
+**💻 Programming & Problem Solving**  
+C, C++, Python, JavaScript, TypeScript, Data Structures & Algorithms, LeetCode
+
+**🐳 DevOps & Development Tools**  
+Docker, Git, GitHub, VS Code, Postman
+
+**☁️ Deployment & Hosting**  
+Vercel, Netlify, Docker
 
 **🌱 Currently Learning**  
-Advanced Full Stack Development, Backend Development, APIs, Databases, and AI-powered applications.
+Advanced Full Stack Development, AI Applications, LLMs, RAG Systems, AI Agents, Backend Development, APIs, Databases, Docker, Vercel, Netlify, and Cloud Technologies.
 
-I believe in **learning by building**. Whether it's solving a DSA problem, developing a full-stack application, or exploring a new technology, I’m always looking for opportunities to improve and create something meaningful.
+I believe in **learning by building**. Whether it's solving a DSA problem, developing a full-stack application, building an AI-powered project, working with LLMs and RAG, or exploring a new technology, I’m always looking for opportunities to improve and create something meaningful.
 
 ---
 
@@ -33,10 +39,15 @@ I believe in **learning by building**. Whether it's solving a DSA problem, devel
 
 <p align="left">
 
+<!-- Programming Languages -->
+
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 <br/>
+
+<!-- Frontend -->
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -45,22 +56,50 @@ I believe in **learning by building**. Whether it's solving a DSA problem, devel
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<!-- Backend -->
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 <br/>
 
+<!-- Cloud & Database -->
+
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+
+<br/>
+
+<!-- AI -->
+
+<img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM-4B0082?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Agents-8A2BE2?style=for-the-badge&logoColor=white" />
+
+<br/>
+
+<!-- DevOps & Tools -->
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+<br/>
+
+<!-- Deployment & Hosting -->
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 
 </p>
 
@@ -69,7 +108,7 @@ I believe in **learning by building**. Whether it's solving a DSA problem, devel
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sauravverma810&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sauravverma810&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -85,7 +124,7 @@ I believe in **learning by building**. Whether it's solving a DSA problem, devel
 # 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravverma810&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravverma810&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
