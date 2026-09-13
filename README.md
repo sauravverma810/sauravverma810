@@ -68,15 +68,15 @@ I enjoy building modern, scalable and user-friendly web applications while conti
 
 <p align="left">
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/saurav-kumar-31b659430)">
+<a href="https://www.linkedin.com/in/saurav-kumar-31b659430">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="[YOUR_INSTAGRAM_URL](https://www.instagram.com/code_play8?stkn=d280ZzdpMnhhMGEz)">
+<a href="https://www.instagram.com/code_play8/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="[YOUR_PORTFOLIO_UR](https://saurav-portfolio-ten.vercel.app/)">
+<a href="https://saurav-portfolio-ten.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
