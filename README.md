@@ -129,14 +129,6 @@ I believe in **learning by building**. Whether it's solving a DSA problem, devel
 
 ---
 
-# 🐍 My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sauravverma810/sauravverma810/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
 # 🌐 Social Media
 
 <p align="left">
