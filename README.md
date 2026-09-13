@@ -6,7 +6,7 @@
 
 I’m a passionate developer who loves turning ideas into modern, scalable, and user-friendly applications. I enjoy solving problems, learning new technologies, and building projects that solve real-world problems.
 
-I work across **frontend, backend, and AI development**, from creating responsive user interfaces and REST APIs to managing databases, containerizing applications, deploying projects, and exploring AI-powered solutions.
+I work across **frontend, backend, databases, and AI development**, from creating responsive user interfaces and REST APIs to designing databases, containerizing applications, deploying projects, and exploring AI-powered solutions.
 
 ### 🚀 What I Bring to the Table
 
@@ -16,11 +16,14 @@ HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Redux
 **⚙️ Backend Development**  
 Node.js, Express.js, REST APIs, MongoDB, Firebase, Supabase
 
+**🗄️ Database & Data Management**  
+SQL, MySQL, MongoDB, Firebase, Supabase, Database Design, CRUD Operations
+
 **🤖 AI, LLM & RAG Development**  
 Python, Artificial Intelligence, Generative AI, LLMs, RAG (Retrieval-Augmented Generation), AI Agents, Prompt Engineering, AI-powered Applications
 
 **💻 Programming & Problem Solving**  
-C, C++, Python, JavaScript, TypeScript, Data Structures & Algorithms, LeetCode
+C, C++, Python, JavaScript, TypeScript, SQL, Data Structures & Algorithms, LeetCode
 
 **🐳 DevOps & Development Tools**  
 Docker, Git, GitHub, VS Code, Postman
@@ -29,9 +32,9 @@ Docker, Git, GitHub, VS Code, Postman
 Vercel, Netlify, Docker
 
 **🌱 Currently Learning**  
-Advanced Full Stack Development, AI Applications, LLMs, RAG Systems, AI Agents, Backend Development, APIs, Databases, Docker, Vercel, Netlify, and Cloud Technologies.
+Advanced Full Stack Development, AI Applications, LLMs, RAG Systems, AI Agents, Backend Development, APIs, SQL, MySQL, Databases, Docker, Vercel, Netlify, and Cloud Technologies.
 
-I believe in **learning by building**. Whether it's solving a DSA problem, developing a full-stack application, building an AI-powered project, working with LLMs and RAG, or exploring a new technology, I’m always looking for opportunities to improve and create something meaningful.
+I believe in **learning by building**. Whether it's solving a DSA problem, developing a full-stack application, designing databases, building an AI-powered project, working with LLMs and RAG, or exploring a new technology, I’m always looking for opportunities to improve and create something meaningful.
 
 ---
 
@@ -44,6 +47,7 @@ I believe in **learning by building**. Whether it's solving a DSA problem, devel
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 <br/>
 
@@ -65,11 +69,18 @@ I believe in **learning by building**. Whether it's solving a DSA problem, devel
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logoColor=white" />
+
+<br/>
+
+<!-- Database -->
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 <br/>
 
-<!-- Cloud & Database -->
+<!-- Cloud & Database Services -->
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
