@@ -12,8 +12,14 @@ I work across **frontend, backend, databases, and AI development**, from creatin
 
 **🎨 Frontend Development**  
 HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Redux
+
+**⚙️ Backend Development**  
 Node.js, Express.js, REST APIs, MongoDB, Firebase, Supabase
+
+**🗄️ Database & Data Management**  
 SQL, MySQL, MongoDB, Firebase, Supabase, Database Design, CRUD Operations
+
+**🤖 AI, LLM & RAG Development**  
 Python, Artificial Intelligence, Generative AI, LLMs, RAG (Retrieval-Augmented Generation), AI Agents, Prompt Engineering, AI-powered Applications
 
 **💻 Programming & Problem Solving**  
